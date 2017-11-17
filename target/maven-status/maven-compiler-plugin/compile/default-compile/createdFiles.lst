@@ -1,0 +1,8 @@
+transaction\statictics\api\StatisticsController.class
+transaction\statictics\model\Transaction.class
+transaction\statictics\service\TransactionService.class
+transaction\statictics\model\Statistics.class
+transaction\statictics\Application.class
+transaction\statictics\exceptions\BadRequestException.class
+transaction\statictics\exceptions\AbstractException.class
+transaction\statictics\datasource\TransactionDatasource.class
